@@ -32,11 +32,6 @@ body {
 
 
 
-.txt:hover {
-  animation: movingTxt 2s alternate;
-}
-
-
 img {
   box-shadow: 0 2rem 4rem rgba(20, 20, 20, 0.7);
   animation: imgMove 2s ease 0s 1 normal both;
